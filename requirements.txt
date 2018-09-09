@@ -1,0 +1,8 @@
+feedparser
+- pip install feedparser
+
+psycopg2
+ - pip install psycopg2
+
+beautifulsoup4
+- pip install beautifulsoup4
